@@ -1,0 +1,310 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Cole deMoet",
+    "section": "",
+    "text": "I’m a 3rd year focused on using data, storytelling, and digital tools to help organizations understand customers and improve marketing performance.\nMy interests include campaign analytics, dashboard design, SEO, customer segmentation, and strategic marketing communication. This portfolio is designed for prospective employers, recruiters, and collaborators looking for evidence of technical skill, business judgment, and professional communication.\nView My Projects See Dashboard"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Cole deMoet",
+    "section": "About Me",
+    "text": "About Me\nI am currently studying Business Administration at California Polytechnic State University, Pomona, where I have built skills in data analysis, digital marketing strategy, visualization, and business communication. I enjoy turning complex datasets into clear recommendations that teams can act on."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Hi, I’m Cole deMoet",
+    "section": "Skills",
+    "text": "Skills\n\n\nAnalytics\nGoogle Analytics, Excel, SQL, R/Python, A/B testing, KPI reporting\n\n\nMarketing\nSEO, paid media, customer journey mapping, segmentation, content strategy\n\n\nCommunication\nDashboards, executive summaries, presentations, stakeholder storytelling"
+  },
+  {
+    "objectID": "index.html#highlighted-achievements",
+    "href": "index.html#highlighted-achievements",
+    "title": "Hi, I’m Cole deMoet",
+    "section": "Highlighted Achievements",
+    "text": "Highlighted Achievements\n\nBuilt a campaign performance dashboard that connects marketing KPIs to business outcomes.\nDeveloped data-driven recommendations for improving conversion and customer engagement.\nCreated a Revealjs presentation to communicate technical insights in a polished format."
+  },
+  {
+    "objectID": "index.html#career-objective",
+    "href": "index.html#career-objective",
+    "title": "Hi, I’m Cole deMoet",
+    "section": "Career Objective",
+    "text": "Career Objective\nMy goal is to pursue a role in marketing analytics, digital marketing, or growth strategy, where I can combine quantitative analysis with creative problem-solving."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m Cole deMoet",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nYou can email me, or view my code on GitHub."
+  },
+  {
+    "objectID": "presentation/index.html",
+    "href": "presentation/index.html",
+    "title": "Marketing Analytics Case Study",
+    "section": "",
+    "text": "Analyze campaign performance across marketing channels and recommend actions to improve conversion, efficiency, and revenue."
+  },
+  {
+    "objectID": "presentation/index.html#objective",
+    "href": "presentation/index.html#objective",
+    "title": "Marketing Analytics Case Study",
+    "section": "Objective",
+    "text": "Objective\nAnalyze campaign performance across marketing channels and recommend actions to improve conversion, efficiency, and revenue."
+  },
+  {
+    "objectID": "presentation/index.html#business-question",
+    "href": "presentation/index.html#business-question",
+    "title": "Marketing Analytics Case Study",
+    "section": "Business Question",
+    "text": "Business Question\nWhich marketing channels are producing the strongest results, and where should the team focus future optimization?"
+  },
+  {
+    "objectID": "presentation/index.html#method",
+    "href": "presentation/index.html#method",
+    "title": "Marketing Analytics Case Study",
+    "section": "Method",
+    "text": "Method\n\nCollected campaign spend, conversion, and revenue data.\nCompared channels using conversions, revenue, and return on ad spend.\nIdentified opportunities for testing and budget reallocation."
+  },
+  {
+    "objectID": "presentation/index.html#sample-findings",
+    "href": "presentation/index.html#sample-findings",
+    "title": "Marketing Analytics Case Study",
+    "section": "Sample Findings",
+    "text": "Sample Findings\n\n\n\nChannel\nStrength\nOpportunity\n\n\n\n\nPaid Search\nHighest revenue\nImprove cost efficiency\n\n\nEmail\nStrong conversion volume\nPersonalize by segment\n\n\nOrganic Search\nEfficient traffic source\nExpand SEO content\n\n\nSocial\nAwareness driver\nImprove landing page fit"
+  },
+  {
+    "objectID": "presentation/index.html#recommendation-1",
+    "href": "presentation/index.html#recommendation-1",
+    "title": "Marketing Analytics Case Study",
+    "section": "Recommendation 1",
+    "text": "Recommendation 1\nReallocate a portion of low-performing paid budget into channels with stronger return on ad spend."
+  },
+  {
+    "objectID": "presentation/index.html#recommendation-2",
+    "href": "presentation/index.html#recommendation-2",
+    "title": "Marketing Analytics Case Study",
+    "section": "Recommendation 2",
+    "text": "Recommendation 2\nUse A/B testing on landing pages and email subject lines to improve conversion rate."
+  },
+  {
+    "objectID": "presentation/index.html#recommendation-3",
+    "href": "presentation/index.html#recommendation-3",
+    "title": "Marketing Analytics Case Study",
+    "section": "Recommendation 3",
+    "text": "Recommendation 3\nBuild a recurring dashboard so stakeholders can track channel performance weekly."
+  },
+  {
+    "objectID": "presentation/index.html#technical-skills-demonstrated",
+    "href": "presentation/index.html#technical-skills-demonstrated",
+    "title": "Marketing Analytics Case Study",
+    "section": "Technical Skills Demonstrated",
+    "text": "Technical Skills Demonstrated\n\nQuarto website publishing\nRevealjs presentation design\nMarketing analytics storytelling\nKPI interpretation\nDashboard communication"
+  },
+  {
+    "objectID": "dashboard/index.html",
+    "href": "dashboard/index.html",
+    "title": "Marketing Performance Dashboard",
+    "section": "",
+    "text": "This dashboard summarizes sample campaign performance across channels. It is designed to show how marketing data can be translated into business recommendations.\n\n\n\n\n\n[1] \"$44,500\"\n\n\n\n\n\n\n\n[1] \"$9,300\"\n\n\n\n\n\n\n\n[1] 570\n\n\n\n\n\n\n\n[1] 4.78"
+  },
+  {
+    "objectID": "dashboard/index.html#dashboard-purpose",
+    "href": "dashboard/index.html#dashboard-purpose",
+    "title": "Marketing Performance Dashboard",
+    "section": "",
+    "text": "This dashboard summarizes sample campaign performance across channels. It is designed to show how marketing data can be translated into business recommendations.\n\n\n\n\n\n[1] \"$44,500\"\n\n\n\n\n\n\n\n[1] \"$9,300\"\n\n\n\n\n\n\n\n[1] 570\n\n\n\n\n\n\n\n[1] 4.78"
+  },
+  {
+    "objectID": "dashboard/index.html#revenue-by-channel",
+    "href": "dashboard/index.html#revenue-by-channel",
+    "title": "Marketing Performance Dashboard",
+    "section": "Revenue by Channel",
+    "text": "Revenue by Channel"
+  },
+  {
+    "objectID": "dashboard/index.html#interpretation",
+    "href": "dashboard/index.html#interpretation",
+    "title": "Marketing Performance Dashboard",
+    "section": "Interpretation",
+    "text": "Interpretation\nPaid Search generated the highest revenue, while Email showed strong efficiency relative to spend. A next step would be to compare channel performance by customer segment and test whether budget should shift toward higher-ROAS channels."
+  },
+  {
+    "objectID": "listings/project-1/index.html",
+    "href": "listings/project-1/index.html",
+    "title": "Campaign Performance Analysis",
+    "section": "",
+    "text": "This project evaluates a sample digital marketing campaign across paid search, email, social, organic search, and referral channels."
+  },
+  {
+    "objectID": "listings/project-1/index.html#overview",
+    "href": "listings/project-1/index.html#overview",
+    "title": "Campaign Performance Analysis",
+    "section": "",
+    "text": "This project evaluates a sample digital marketing campaign across paid search, email, social, organic search, and referral channels."
+  },
+  {
+    "objectID": "listings/project-1/index.html#business-goal",
+    "href": "listings/project-1/index.html#business-goal",
+    "title": "Campaign Performance Analysis",
+    "section": "Business Goal",
+    "text": "Business Goal\nIdentify which channels generate the strongest revenue and conversion outcomes, then recommend budget and testing priorities."
+  },
+  {
+    "objectID": "listings/project-1/index.html#methods",
+    "href": "listings/project-1/index.html#methods",
+    "title": "Campaign Performance Analysis",
+    "section": "Methods",
+    "text": "Methods\n\nCleaned campaign performance data.\nCalculated revenue, conversions, spend, and ROAS.\nVisualized channel-level performance.\nConverted findings into recommendations."
+  },
+  {
+    "objectID": "listings/project-1/index.html#key-takeaways",
+    "href": "listings/project-1/index.html#key-takeaways",
+    "title": "Campaign Performance Analysis",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nPaid Search drove the highest revenue.\nEmail showed strong efficiency and should be tested further.\nSocial requires landing page and audience refinement."
+  },
+  {
+    "objectID": "listings/project-1/index.html#tools",
+    "href": "listings/project-1/index.html#tools",
+    "title": "Campaign Performance Analysis",
+    "section": "Tools",
+    "text": "Tools\nQuarto, R, ggplot2, Excel/CSV workflow, marketing KPI framework."
+  },
+  {
+    "objectID": "listings/project-3/index.html",
+    "href": "listings/project-3/index.html",
+    "title": "Customer Segmentation Case Study",
+    "section": "",
+    "text": "This case study demonstrates how customer data can be grouped into meaningful segments for targeting and positioning."
+  },
+  {
+    "objectID": "listings/project-3/index.html#overview",
+    "href": "listings/project-3/index.html#overview",
+    "title": "Customer Segmentation Case Study",
+    "section": "",
+    "text": "This case study demonstrates how customer data can be grouped into meaningful segments for targeting and positioning."
+  },
+  {
+    "objectID": "listings/project-3/index.html#approach",
+    "href": "listings/project-3/index.html#approach",
+    "title": "Customer Segmentation Case Study",
+    "section": "Approach",
+    "text": "Approach\n\nDefined segmentation variables.\nCompared behavioral and demographic patterns.\nBuilt customer personas.\nRecommended tailored messaging by segment."
+  },
+  {
+    "objectID": "listings/project-3/index.html#strategic-value",
+    "href": "listings/project-3/index.html#strategic-value",
+    "title": "Customer Segmentation Case Study",
+    "section": "Strategic Value",
+    "text": "Strategic Value\nSegmentation helps marketers prioritize the right audiences, personalize communication, and improve campaign relevance."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Results-oriented marketing and analytics student/professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in using analytics tools to uncover insights and support decision-making."
+  },
+  {
+    "objectID": "resume.html#job-title-company-or-organization",
+    "href": "resume.html#job-title-company-or-organization",
+    "title": "Résumé",
+    "section": "[Job Title], [Company or Organization]",
+    "text": "[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Achievement or responsibility with measurable impact]\n[Marketing, analytics, or communication task]\n[Tools used, such as Google Analytics, Excel, R, Python, SQL, or Tableau]"
+  },
+  {
+    "objectID": "resume.html#projectleadership-role-organization",
+    "href": "resume.html#projectleadership-role-organization",
+    "title": "Résumé",
+    "section": "[Project/Leadership Role], [Organization]",
+    "text": "[Project/Leadership Role], [Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment]\n[Outcome or result]"
+  },
+  {
+    "objectID": "listings/project-2/index.html",
+    "href": "listings/project-2/index.html",
+    "title": "SEO & Web Analytics Audit",
+    "section": "",
+    "text": "This project audits website performance using SEO and web analytics concepts. It focuses on visibility, user behavior, and conversion improvement."
+  },
+  {
+    "objectID": "listings/project-2/index.html#overview",
+    "href": "listings/project-2/index.html#overview",
+    "title": "SEO & Web Analytics Audit",
+    "section": "",
+    "text": "This project audits website performance using SEO and web analytics concepts. It focuses on visibility, user behavior, and conversion improvement."
+  },
+  {
+    "objectID": "listings/project-2/index.html#analysis-areas",
+    "href": "listings/project-2/index.html#analysis-areas",
+    "title": "SEO & Web Analytics Audit",
+    "section": "Analysis Areas",
+    "text": "Analysis Areas\n\nSearch intent and keyword opportunities\nLanding page quality\nTraffic source performance\nEngagement and conversion metrics"
+  },
+  {
+    "objectID": "listings/project-2/index.html#recommendations",
+    "href": "listings/project-2/index.html#recommendations",
+    "title": "SEO & Web Analytics Audit",
+    "section": "Recommendations",
+    "text": "Recommendations\n\nBuild content around high-intent search queries.\nImprove page titles and meta descriptions.\nStrengthen calls to action on key landing pages.\nTrack conversion events in Google Analytics."
+  },
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "This page showcases work in strategic marketing, campaign planning, brand positioning, and communication strategy. Use this page if your target role emphasizes broader digital marketing or brand strategy in addition to analytics."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-1-strategic-campaign-planning",
+    "href": "strategic-marketing.html#project-1-strategic-campaign-planning",
+    "title": "Strategic Marketing",
+    "section": "Project 1: Strategic Campaign Planning",
+    "text": "Project 1: Strategic Campaign Planning\nI developed a campaign plan for Dairy Queen, in a social media push specifically for the Dairy Queen located in Rancho Cucamonga.\nThe Campaign\n\nCreated a Tik Tok and Instagram account for the location\nDeveloped ideas for videos and posts to increase engagement and brand awareness.\nOversaw the producation of these videos to ensure quality of material\nUploaded the videos to the accounts and monitored engagement to optimize future content strategy."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-2-brand-audit-positioning",
+    "href": "strategic-marketing.html#project-2-brand-audit-positioning",
+    "title": "Strategic Marketing",
+    "section": "Project 2: Brand Audit & Positioning",
+    "text": "Project 2: Brand Audit & Positioning\nI conducted a campaign for Pi Kappa Alpha Fraternity, developing a social media campaign for their recruitment.\nThe Campaign\n\nDeveloped a roadmap for the campaign, including a timeline and key milestones.\nWorked with the organization to create content for the campaign, including videos, graphics, and written materials.\nStayed involved throughout the whole process to ensure the quality of the campaign"
+  },
+  {
+    "objectID": "strategic-marketing.html#project-3-product-launch-go-to-market-plan",
+    "href": "strategic-marketing.html#project-3-product-launch-go-to-market-plan",
+    "title": "Strategic Marketing",
+    "section": "Project 3: Product Launch Go-to-Market Plan",
+    "text": "Project 3: Product Launch Go-to-Market Plan\nFor [new product/service], I created a go-to-market plan including target audience, launch channels, budget allocation, and optimization metrics.\nSkills Demonstrated\n\nGTM strategy\nChannel mix planning\nCustomer journey mapping\nLaunch measurement framework"
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are selected projects that highlight my experience applying marketing analytics, digital strategy, and data visualization to real-world business questions."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Projects",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating paid, owned, and earned media using conversion and engagement metrics.\nData Visualization: Turning raw marketing data into dashboards and executive-ready insights.\nSEO & Web Analytics: Using site behavior and search data to improve discoverability and conversion.\nCustomer & Market Insights: Segmenting audiences and translating findings into strategy."
+  },
+  {
+    "objectID": "resume.html#machinistinspector-mindrum-precision-rancho-cucamonga",
+    "href": "resume.html#machinistinspector-mindrum-precision-rancho-cucamonga",
+    "title": "Resume",
+    "section": "Machinist/Inspector, Mindrum Precision, Rancho Cucamonga",
+    "text": "Machinist/Inspector, Mindrum Precision, Rancho Cucamonga\nJune 2021 - August 2021\n\nOperated precision machines to produce parts for NASA, the US military, SpaceX, JPL, and other space companies.\nInspected and verified parts to ensure they met strict safety specifications.\nCleaned parts thoroughly to remove metal scraps and ensure quality standards were met."
+  },
+  {
+    "objectID": "resume.html#manager-dairy-queen-rancho-cucamonga",
+    "href": "resume.html#manager-dairy-queen-rancho-cucamonga",
+    "title": "Resume",
+    "section": "Manager, Dairy Queen, Rancho Cucamonga",
+    "text": "Manager, Dairy Queen, Rancho Cucamonga\nNovember 2023 - Present\n\nDelegated tasks to team members to optimize workflow and ensure timely order preparation in a fast paced environment.\nManaged customer complaints and ensured a high level of customer satisfaction.\nPrepared orders and supervised daily operations to ensure efficiency."
+  }
+]
